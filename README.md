@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="banner.png" alt="Rajesh Kumar Banner" width="100%">
+</p>
+
+<br>
 <h1 align="center">Hi 👋, I'm Rajesh Kumar</h1>
 
 
